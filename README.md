@@ -14,6 +14,7 @@
 13. [Project](#project)
  
 # Lab 1 - Obliczanie pól i obwodów <a name="lab1"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/lab_1)<br/><br/>
 Program do obliczania pól i obwodów figur płaskich
 1. Obliczanie pola i obwodu prostokąta
 2. Obliczanie pola i obwodu trójkąta
@@ -21,6 +22,7 @@ Program do obliczania pól i obwodów figur płaskich
 4. Możliwość wyboru pole/obwód przez użytkownika
 
 # Lab 2 - Standardowe menu <a name="lab2"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/Lab_2)<br/><br/>
 Proszę napisać program, który będzie wyświetlał poniższe menu (po wybraniu np. 1, powinien pojawiać się komunikat "Wybrałeś opcję nr 1"), opcje 4 i 5 wyświetlają podmenu.
 
 Menu:
@@ -32,6 +34,7 @@ Menu:
 6. Koniec
 
 # Lab 3 - Pętle (rysowanie dolarami) <a name="lab3"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/lab_3)<br/><br/>
 Napisz program, który pozwala narysować poniższe figury znakami dolara (wymiary podaje użytkownik):  
 1. pozioma linia
 2. pionowa linia
@@ -44,6 +47,7 @@ Napisz program, który pozwala narysować poniższe figury znakami dolara (wymia
 9. trójkąt prostokątny
  
 # Lab 4 - Tablice, kalkulator "wieloliczbowy" <a name="lab4"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/lab_4)<br/><br/>
 Proszę napisać program z następującymi opcjami (menu na instrukcji switch):
 1. Wprowadzanie liczb (maks. 100)
 2. Wyświetlanie liczb
@@ -57,6 +61,7 @@ Proszę napisać program z następującymi opcjami (menu na instrukcji switch):
 10. Wyświetlenie statystyki (ile parzystych, ile nieparzystych, ile dodatnich, ile ujemnych)
 
 # Lab 5 - Rysowanie z wykorzystaniem funkcji <a name="lab5"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/Lab_5)<br/><br/>
 Proszę napisać program, umożliwiający narysowanie następujących figur (każdy punkt to jedna funkcja). Dodatkowo menu powinno być wyświetlane przez oddzielną funkcję.
 
 1. Linia pozioma ```$$$$$``` (parametry: długość i znak)
@@ -86,6 +91,7 @@ Proszę napisać program, umożliwiający narysowanie następujących figur (ka�
     ```*****$$$$$*****$$$$$```
  
 # Lab 6 - Funkcje liczące <a name="lab6"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/lab_6)<br/><br/>
 Proszę napisać następujące funkcje:
 1. menu (wyświetla menu i zwraca nr wybranej opcji),
 2. obwodProstokata (liczy i zwraca obwód prostokąta, 2 parametry - liczby rzeczywiste),
@@ -98,6 +104,7 @@ Proszę napisać następujące funkcje:
 9. czyLitera ('a' => 1 'Z' => 1 '1' => 0 '%' => 0)
  
 # Lab 7 - Struktury <a name="lab7"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/lab_7)<br/><br/>
 Proszę napisać program do operowania na punktach 2D z następującymi możliwościami:
 - pamiętanie dla każdego punktu nazwy (litery od A do Z) i współrzędnych x,y (wszystko podaje użytkownik)
 1. dopisywanie kolejnych punktów do bazy (maks. 100 punktów), można to robić "na raty"
@@ -110,6 +117,7 @@ Proszę napisać program do operowania na punktach 2D z następującymi możliwo
 - kontrola unikalności nazw (niedopuszczenie do powtarzania nazw punktów, np. dwa punkty o nazwie A)
 
 # Lab 8 - Napisy <a name="lab8"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/lab_8)<br/><br/>
 Proszę napisać program, który będzie umożliwiał wykonywanie następujących operacji na napisach (napisy mogą zawierać spacje):
 1. Wprowadź napis nr 1
 2. Wprowadź napis nr 2
@@ -121,6 +129,7 @@ Proszę napisać program, który będzie umożliwiał wykonywanie następującyc
 8. Wyświetl napisy w kolejności alfabetycznej
 
 # Lab 9 - Pliki <a name="lab9"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/lab_9)<br/><br/>
 Proszę napisać program, który pozwala wykonać następujące operacje na domyślnym pliku tekstowym:
 1. Odczyt i wyświetlenie pierwszej linijki
 2. Zapis do pliku linii tekstu podanej przez użytkownika
@@ -133,7 +142,8 @@ Proszę napisać program, który pozwala wykonać następujące operacje na domy
 9. Wybór przez użytkownika pliku, na którym będą wykonywane powyższe operacje
   
 # Lab 10 - Wskaźniki <a name="lab10"></a>
- Proszę napisać kalkulator do wykonywania czterech podstawowych działań (+ - * / ). Wszystkie zmienne używane w obliczeniach powinny być alokowane dynamicznie w trakcie wykonywania programu.
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/Lab_10)<br/><br/>
+Proszę napisać kalkulator do wykonywania czterech podstawowych działań (+ - * / ). Wszystkie zmienne używane w obliczeniach powinny być alokowane dynamicznie w trakcie wykonywania programu.
  
 Program powinien mieć następujące opcje:
 1. Wprowadź dane (a i b) (w tym punkcie następuje alokacja pamięci)
@@ -149,6 +159,7 @@ Dodatkowo:
 - liczenia sumy i iloczynu dowolnej ilości liczb
 
 # Lab 11 - Zapis liczb do pliku <a name="lab11"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/Lab_11)<br/><br/>
 Proszę rozbudować program kalkulator wieloliczbowy z Lab 4 o możliwość zapisu/odczytu liczb do/z pliku (tekstowego):
 1. Zapis wszystkich wprowadzonych liczb do domyślnego pliku.
 2. Odczyt wszystkich liczb z domyślnego pliku.
@@ -159,6 +170,7 @@ Proszę rozbudować program kalkulator wieloliczbowy z Lab 4 o możliwość zapi
 7. Zamiast pytać użytkownika za każdym razem o nazwę pliku, pozwalamy mu podać domyślną nazwę pliku.
 
 # Lab 12 - Tablice wielowymiarowe <a name="lab12"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/Lab_12)<br/><br/>
 Proszę napisać program, który będzie umożliwiał przechowywanie liczb całkowitych w tablicy dwuwymiarowej, o wymiarach 5x5 i pozwalał na wykonanie następujących operacji:
 1. wypełnienie całej tablicy podaną liczbą,
 2. wyświetlenie całej tablicy (dwuwymiarowo),
@@ -173,4 +185,5 @@ Proszę napisać program, który będzie umożliwiał przechowywanie liczb całk
 11. wyświetlenie wybranego fragmentu tablicy.
 
 # Project <a name="project"></a>
+[folder link](https://github.com/roseannee/PP_Sem_1/tree/master/Project)<br/><br/>
 [Specyfikacja.pdf](https://github.com/roseannee/PP_Sem_1/files/8534461/Specyfikacja.pdf)
