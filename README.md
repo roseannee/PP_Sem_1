@@ -67,28 +67,38 @@ Proszę napisać program, umożliwiający narysowanie następujących figur (ka�
 1. Linia pozioma ```$$$$$``` (parametry: długość i znak)
 2. Pojedynczy szlaczek ```$$$$$*****$$$$$*****``` (korzysta z 1.; parametry: długość ``$/*`` (5) i ilość powtórzeń (2))
 3. Prostokąt (korzysta z 1; parametry: długości boków (5, 2) i znak (```$```))
-	 ```$$$$$```
-	 ```$$$$$```
+	 ```
+	 $$$$$
+	 $$$$$
+	 ```
 4. Kwadrat (korzysta z 3; parametry: długość boku (5) i znak (```$```))
-	```$$$$$```  
-	```$$$$$```  
-	```$$$$$```  
-	```$$$$$```  
-	```$$$$$```  
+	```
+	$$$$$
+	$$$$$
+	$$$$$
+	$$$$$ 
+	$$$$$
+	```  
 6. Pojedynczy szlaczek premium (korzysta z 1.; parametry: długość ``$/*`` (5), ilość powtórzeń (2) i znaki (``$, *``))  
-    ```$$$$$*****$$$$$*****```  
+    ```
+    $$$$$*****$$$$$*****
+    ```  
 7. Szeroki szlaczek (korzysta z 5; parametry: długość ```$/*``` (5), ilość powtórzeń (2), grubość i znaki (```$, *```))  
-    ```$$$$$*****$$$$$*****```  
-    ```$$$$$*****$$$$$*****```  
-    ```$$$$$*****$$$$$*****```
+    ```
+    $$$$$*****$$$$$*****
+    $$$$$*****$$$$$*****
+    $$$$$*****$$$$$*****
+    ```
     
 8. Szachownica (korzysta z 6; parametry: bok pola (5), bok szachownicy (4), znaki (```$, *```))  
-    ```$$$$$*****$$$$$*****```  
-    ```$$$$$*****$$$$$*****```  
-    ```$$$$$*****$$$$$*****```  
-    ```*****$$$$$*****$$$$$```  
-    ```*****$$$$$*****$$$$$```  
-    ```*****$$$$$*****$$$$$```
+    ```
+    $$$$$*****$$$$$*****
+    $$$$$*****$$$$$*****
+    $$$$$*****$$$$$*****
+    *****$$$$$*****$$$$$ 
+    *****$$$$$*****$$$$$ 
+    *****$$$$$*****$$$$$
+    ```
  
 # Lab 6 - Funkcje liczące <a name="lab6"></a>
 [folder link](https://github.com/roseannee/PP_Sem_1/tree/master/lab_6)<br/><br/>
